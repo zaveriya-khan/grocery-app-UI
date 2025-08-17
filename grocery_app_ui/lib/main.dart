@@ -81,7 +81,7 @@ class HomeScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(title: const Text('Grocery Store')),
       body: ListView.builder(
-        itemCount: dummyProducts.length + 2, // +2 for tip and joke
+        itemCount: dummyProducts.length + 2,
         itemBuilder: (context, index) {
           if (index < dummyProducts.length) {
             final product = dummyProducts[index];
