@@ -4,8 +4,7 @@ A simple Flutter application for a grocery store 🍋🍇, with an interface for
 
 ---
 
-### Getting Started :
-
+### Getting S
 This project is a starting point for a Flutter application.
 
 To get a local copy up and running, follow these simple steps.
